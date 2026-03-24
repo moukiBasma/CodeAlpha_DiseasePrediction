@@ -61,5 +61,3 @@ else:
 - Add explainable AI components (SHAP/LIME) for model interpretability
 - Expand to multi-class cardiovascular risk stratification
 
----
-MIT License | CodeAlpha Internship Project
